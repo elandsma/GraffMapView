@@ -1,4 +1,6 @@
 # GraffMapView
-Graff Map Desktop View
+Graff Map Dot Net
 
-This repo is currently just a placeholder for a future feature of GraffMap.
+This is a repository for the GraffMap website (graffmap.net) - not the app itself.
+
+This github is listened to by Netlify where the static site is deployed.
